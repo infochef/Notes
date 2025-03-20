@@ -1,0 +1,207 @@
+Basics of JAVA
+
+1)What is JDK?
+2)Which is the latest version of JAVA?
+3)Explain the advantages of JAVA?
+4)Explain JAVAC and JAVA Commands and which folder they are available?
+5)What is signature of main method?
+6)Explain keyword?list some keywords in JAVA?
+7)Explain identifiers in JAVA?
+8)Explain about Literals?
+9)Explain why JAVA is platform independent?
+10)Is JVM platform independent?
+11)Explain the difference between compliler and interpreter?
+13)What is Rule and Convention?
+14)Explain about JRE?
+15)explain variables in JAVA and Different types of Variables?
+16)Mention all the primitive datatypes in java?
+17)Explain about primitive variables?
+18)Explain Reference variables?
+19)What is String in java?
+20)Explain Methods in JAVA and why we use Methods?
+21)Write the general Syntax for a method?
+22)What is the Default excution method in java?
+23)Can we Execute Java Program whitout main method?
+24)Can we Compile Java Program whitout main method?
+
+Object Oriented Programing 
+
+Class and Object
+
+25)Explain what is an Object?
+26)Explain What is a Class?
+27)Explain Members of a Class?
+28)Explain Static Members and Non Static Memebers of a class?
+29)List the Difference between Static and NonStatic Members?
+30)Explain About Global variables?
+31)Explain How can you access Static Global Variables and NonStatic Global Varialbles of a class?
+32)What will be the Default values for Global Variables,Refernce Variables,Boolean variable?
+33)Explain the difference between local and Global Variables?
+34)How can You Declare Constant variables in java?
+35)Can we just declare a final global variable?
+36)Explain About Static Blocks and NonStatic Blocks?
+37)When does Static Block gets Executed and how many times Static Blocks will be Executed in one Excution cycle?
+38)When does Non Static Block gets Executed and How many times Non Static Blocks will be Executed in one Excution cycle? 
+39)What Does a Method Return type Signifies?
+40)Can we develop a method without Return type?
+41)What is the datatype of reference variable in java?
+42)Explain about Constructors and Different types of Constructors?
+43)What is default Constructor?
+44)What is Constructor overloading ?why we use it?
+45)what is this() calling statement?why we use it?
+46)what is Recursion?
+47)Recursion while constructor overloading will result in compile time or run time error?
+48)what is "this" keyword?
+49)explain instance variable hiding?
+50)Explain the use of this Keyword?
+51)Explain about Has-A Relationship?
+
+Inheritance
+
+52)Explain Inheritance and different types of inheritance?
+53)Explain the use of extends keyword?
+54)Does java support mutliple inheritance?justify?
+55)Explain about Diamond Ambiguity problem?
+56)Explain  super() calling Statement and "super" keyword?
+57)What is the difference between this() and super() calling statement?
+58)What is the difference between this and super keywords?
+59)Explain what is Constructor chaining?
+
+Polymorphism
+
+60)Explain method overloadind with real time example?
+61)why we need method Overloading?
+62)explain method overiding with real time examples?
+63)can we override Static methods?
+64)Explain about TypeCasting?
+65)Explain Primitive Casting?
+66)Explain Auto widening and Explicit Narrowing?
+67)What is Derived or Object Casting?
+68)Explain Auto upcating and Explicit Downcasting?
+69)can we Achieve Object Casting without inheritance?justify
+70)Can we Achieve Downcasting without upcasting?Justify
+71)Explain About Polymorphism?
+72)Explain Different types of polymorphism?
+73)When Does Java throws Class Cast Exception?
+74)Explain the use of instanceOf Operator? 
+
+Abstraction
+
+75)explain about Abstract methods?
+76)what is an Abstract class?
+77)Explain why we cannot Instantiate an Abstract class?
+78)What is the rule to be followed by the Sub class of an Abstract class?
+79)Can abstract Class inherit from another abstract class?
+80)Is abstract class 100% abstract ?explain?
+81)Explain an interface in java?
+82)what is the difference between Abstract class and interface?
+83)Does Abstract class have Constructors?if yes why?
+84)Does interfaces have constructors?
+85)can we instantiate an interface?
+86)Explaion about implements keyword in java?
+87)Can an interface inherit from another interface?
+88)Explain Abstraction,Steps to achieve Abstraction and its advantages?
+89)Can we develop final methods in interface?
+90)Can we develop a final abstract class?
+91)can we Develop a static method in abstract class?
+92)can we just declare a variable in interface without initializing?
+
+Encapsulation
+
+93)Explain About Packages?
+94)Why we need Packages?
+95)What are the Different access levels in java ?Explain?
+96)Explain about Singleton Class?
+97)Explain What is Encapsulation?
+98)Explain about Java Bean Class?
+
+Libraries
+
+Object class
+
+99)Which is the supermost class for all the classes in Java?
+100)Explain "toString()","hashCode()","equals()" of object class?
+101)Can subclass overide "toString()","hashCode()","equals()" of Object Class?
+102)Explain final method in java?
+103)Explain final class in java?
+104)Explain the use of finalize()method in java?
+105)what is the use of clone() method?
+106)what is a marker interface?
+107)Explain and mention all the marker interfaces in java?
+108)Explain about Arrays in java?
+109)Explain primitive Array and Derived(Class-type) Array?
+
+String in java
+
+110)Justify how Strings are immutable in Java?
+111)can we inherit String class in java?justify.
+112)Explain the behaviour of "toString()","hashCode()","equals()" of String Class?
+113)Explain String pool area?
+114)Explain the difference between "==" operator and .equals() method?
+115)List out the difference between String,String builder,and String buffer?
+
+Collection 
+
+116)Explain about Collection API/Framework?
+117)Explain List,Set,Queue type of collection?
+118)list out the differences between List,Set,Queue type of collection?
+119)Explain the features of ArrayList,LinkedList and PriorityQueue with a Program?
+120)Explain the features HashSet,LinkedHashSet and TreeSet with a Program?
+121)Explain the need for Comparable and Comparator Interfaces?
+122)list out the differences between Comparable and Comparator Interfaces? 
+123)Explain generics and how to apply it to collection?
+124)Explain About Maps?
+125)Explain how HashMap works with a program?
+126)Explain Boxing and Unboxing in Java?
+127)What are Wrapper classes and why its is required?
+
+Exception
+
+128)Explain Exceptions in java?
+129)Explain how to handle exceptions?
+130)Explain Checked Exceptions and unchecked Exceptions?
+131)list out the difference between checked Exceptions and unchecked Exceptions?
+132)list out the differences between "throw" and "throws" keywords?
+133)Explain What in Generic handler and Specific handler?
+134)Explain the use of finnaly block?
+135)Explain the different ways of handling Checked Exceptions?
+136)What is the Difference between final ,finally,finalize() in java?
+
+FileHandling
+
+137)Explain how to write data into a text file?
+138)what is the use of Scanner Class in java?
+139)Explain How to read data from a text file?
+140)Explain How to read the String from the console?
+141)Explain What is Serialization and De-serialization?
+
+Threads
+
+142)Explain about Threads in Java and its Properties?
+143)Explain the different ways to create Thread in JAVA?
+144)What is the use of Sleep() method in java?
+145)Explain the "start()" and "run()"methods of Thread Class?
+146)Explain what is a Thread Safe class and how to create it?
+147)Explain Thread Deadlock and how to avoid it?
+148)Explain What is InterThread  Communication And its methods?
+
+Most frequently asked questions
+
+149)Explain the difernces between method overloading and overriding?
+150)Explain the difernces between Abstract class and interface?
+151)What is the difference between this() and super() calling statement?
+152)What is the difference between this and super keywords?
+153)Explain inheritance and its types?give a real time example?
+154)Why multiple inheritance is not possible in java?
+155)Explain upcasting and downcasting?
+156)Explain polymorphism and its types?give a real time example?
+157)Explain Abstraction and how to acheive it?
+158)Explain Encapsulation and Explain all the Access privilages in JAVA?
+159)list out the differences between List,Set,Queue type of collection?
+160)Explain Garbage Collection in java?
+161)What is the Difference between final ,finally,finalize() in java?
+162)Explain the difference between Encapsulation and Abstraction?
+163)Write a java program to reverse a given String?
+164)Write a java Program to handle Exception using Catch block?
+165)Write a program to Count the numbers in a given String "hey1234876hey"?
+166)Write a java Program to reverse the words in a given String? ex:"name is james" to "james is name"

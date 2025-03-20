@@ -1,0 +1,35 @@
+What is product backlog? 
+What is sprint planning meting? 
+Who will involve in sprint planning meting? 
+What is sprint backlog? 
+What is velocity in agile methodology? 
+What is story points in agile methodology? 
+Who will be involved in daily stand up meeting? 
+What is normal sprint duration? 
+
+Answers:
+1. The features which needs to be completed in upcoming sprints as per client required can be considered as product backlog thats means it should be done as soon as possible
+2. Sprint planning meeting is nothing but efforts estimations , what all the features we need to develop in the current sprint, discussions about story points for user stories etc
+3. In my current project all team members will involve in sprint planning meeting
+4. If any user story that should be completed in the current sprint didnt completed due to some reasons then we will call it as sprint backlog item and it will be carry forwarded to next sprint
+4. Velocity can be considered as number of story points estimated for sprint vs number of story points completed in sprint
+5. Story points is nothing but efforts estimations for user story for example we consider one story point as one day work for one person
+6. Whole sprint team should involve in standup meeting to discuss the updates and blockers if any
+7. Sprint duration depends on project to projects but usually two weeks is the sprint duration
+
+What is product backlog?
+A: It is group of stories groomed and kept ready for future sprints
+What is sprint planning meting?
+A: where you decide which stories will be prioritised and picked for the upcoming sprint
+Who will involve in sprint planning meting?
+A: All parties from agile
+What is sprint backlog?
+A: all stories identified and kept ready for immediate sprint
+What is velocity in agile methodology?
+A: No of story points team is able to deliver on a continuous basis
+What is story points in agile methodology?
+A: Efforts required in completing a story are translated into story points
+Who will be involved in daily stand up meeting?
+A: All parties except PO
+What is normal sprint duration?
+A: 2 weeks
