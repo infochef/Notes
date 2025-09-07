@@ -1,0 +1,32 @@
+Cyber Security - 
+
+1) Cyber Response (also known as blue team) - SOC team
+
+It works on the defensive approach on how to save from being hacked or attacked. They generally monitor each and every asset present in any organization and use tools like SIEM (security information and event management) to check the activities of the asset.
+
+Basic certifications - security+ , CEH practical ,  Certified SOC Analyst , CompTIA cybersecurity analyst
+
+2) Threat detection and hunting
+
+Focused on proactively identifying, analyzing, and mitigating potential threats before they cause harm. Unlike traditional Security Operations Center (SOC) teams that primarily react to alerts, threat detection and hunting teams take a proactive approach to uncover hidden threats, advanced persistent threats (APTs), and sophisticated attack techniques that may evade standard security tools.
+
+
+Basic certifications - security+ , CEH practical ,  certified threat intelligence analyst , CompTIA cybersecurity analyst
+
+3)cloud security - 
+
+A Cloud Security Team is responsible for ensuring the security, compliance, and resilience of an organization's cloud infrastructure, applications, and data. As organizations increasingly adopt cloud services (e.g., AWS, Azure, Google Cloud), the role of the cloud security team becomes critical in protecting sensitive information and maintaining business continuity.
+
+Basic certifications - cloud+ , ccsp , security+
+
+4) application security - 
+
+An Application Security (AppSec) Team focuses on ensuring the security of software applications throughout their lifecycle, from design and development to deployment and maintenance. Their primary goal is to identify and mitigate vulnerabilities in applications to prevent exploitation by attackers. The team conducts code reviews, static and dynamic application security testing (SAST/DAST), and penetration testing to uncover weaknesses such as SQL injection, cross-site scripting (XSS), or insecure APIs. They integrate security into the DevOps pipeline (DevSecOps) to automate security checks and ensure secure coding practices. Additionally, the team provides training to developers, enforces security policies, and stays updated on emerging threats to protect applications from evolving risks, ensuring robust and resilient software.
+
+Basic Certifications - Security+
+
+5) Offensive security - red team 
+
+An Offensive Security Team, often referred to as a Red Team, is responsible for simulating real-world cyberattacks to identify vulnerabilities in an organization's systems, networks, and applications. They use ethical hacking techniques, such as penetration testing, social engineering, and exploitation of weaknesses, to uncover security gaps before malicious actors can exploit them. The team conducts thorough assessments, including web application testing, network penetration testing, and phishing simulations, to evaluate the effectiveness of existing defenses. By providing actionable insights and recommendations, the offensive security team helps improve the organization's overall security posture, ensuring resilience against actual cyber threats.
+
+Basic certifications - security+ , ceh , ejpt , oscp

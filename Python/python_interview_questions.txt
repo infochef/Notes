@@ -1,0 +1,112 @@
+Branching Strategy
+How to insert a data and fetch the data using API
+How you take measures for the security of the API (Authentication and Authorization)
+Real Time example for decorators - coding
+Real time example to exception handling -  coding
+why we use specific exception and generic exception
+difference between snowflake and postgres
+LLM Model
+Docker commands - coding
+How to run unit testing - coding
+How do you make sure the code is clean
+What is SOLID principles
+Django functionalities - coding
+Flask functionalities - coding - Done
+Context Managers
+When a problem comes what you see first
+What is generator - coding
+difference between iterator and generator
+difference between numpy and pandas
+time complexity of numpy and pandas
+difference between github and gitlab
+which faster numpy or pandas and how or why
+Explain the difference between lists and tuples in Python.
+How does memory management work in Python?
+Can you describe how decorators work? - codding
+Write a Python function to reverse a string. - codding - Done
+Explain how you would handle exceptions in Python. - codding - Done
+Implementing sorting algorithms. - codding - Done
+Finding duplicates in a list. - codding - Done
+Working with data structures (e.g., stacks, queues). -  out of scope
+High-level design questions, such as how to structure a web application using Python. - system design
+Describe a challenging project you worked on and how you overcame obstacles.
+How do you prioritize tasks when working on multiple projects?
+Discuss the Global Interpreter Lock (GIL) and its implications.
+How do you connect to a database using Python? - codding
+Write a query using an ORM like SQLAlchemy or Django ORM. - codding
+Explain the differences between SQL and NoSQL databases.
+How would you create a RESTful API in Python? - codding
+What tools or libraries would you use for making HTTP requests?
+How do you write unit tests in Python? - codding
+What testing frameworks are you familiar with (e.g., unittest, pytest)? - codding
+Explain how you use Git for version control.
+Describe a situation where you had to resolve a merge conflict.
+What tools or practices do you use for deploying Python applications?
+Are you familiar with containerization (e.g., Docker)?
+How would you approach debugging a performance issue in a Python application?
+Describe a time you had to learn a new technology quickly. How did you approach it?
+How you will optimize multiple for loops - codding
+How would you approach optimizing a slow-running Python script?
+What tools or techniques do you use for debugging Python applications?
+How would you design a system to handle real-time data streaming?
+How would you handle large-scale data processing in Python?
+Can you explain the Global Interpreter Lock (GIL) and its impact on Python concurrency?
+How does Python manage memory?
+What are the differences between lists, sets, and dictionaries in Python? When would you use each?
+How do you merge two dictionaries in Python 3.9+?
+What is a lambda function? Can you provide an example where it might be useful?
+Explain the concept of decorators in Python. Can you give an example of a decorator?
+How do you handle exceptions in Python? Can you provide an example using try, except, finally?
+How would you handle missing data in a DataFrame?
+Explain the difference between loc and iloc in pandas.
+How do you handle routing in Flask?
+What is middleware in Django, and how do you use it?	
+Can you explain the Singleton pattern and provide an example in Python?
+What is the Factory pattern, and how would you implement it in Python?
+How would you design a system to scale to handle millions of requests per second?
+Explain how you would use caching to improve performance in a web application.
+How do you mock dependencies in unit tests using unittest.mock or pytest-mock?
+What are some common practices for writing effective unit tests?
+How would you approach testing a RESTful API endpoint?
+Explain the difference between unit tests and integration tests.
+How do you handle authentication and authorization in a RESTful API?
+What are some best practices for designing RESTful endpoints?
+Explain how you would use asyncio to perform asynchronous I/O operations.
+How do async and await keywords work in Python?
+What is the difference between git merge and git rebase?
+How do you resolve conflicts in Git?
+What are some common Git branching strategies you have used in your projects?
+How do you write a SQL query to find duplicate rows in a table?
+What is the difference between INNER JOIN, LEFT JOIN, and RIGHT JOIN?
+What are the advantages and disadvantages of using NoSQL databases over SQL databases?
+How would you design a schema in MongoDB for a blog application?
+When would you use threading over multiprocessing, and vice versa?
+What are some common pitfalls of using threads in Python?
+Explain the event loop in Python's asyncio module.
+How does Python's asyncio differ from traditional threading?
+Write a Python function to sort an array of integers using quicksort.
+Implement a function that finds the nth Fibonacci number.
+How would you implement a stack using two queues?
+Explain how a binary search tree works and write a Python class for it.
+What are some common protocols used in network communication?
+How would you design a system to monitor network traffic?
+How would you handle data ingestion from IoT devices in Python?
+What are some common challenges in IoT data processing?
+diffference between multithreading in Java and Multithreading in Python
+where you have used microservices and why
+where you have used ci/cd and how
+python concepts
+snowflake
+devops (CI/CD) usage
+django (authetication, iback, igate)
+django(ianet)
+complexity of quick sort
+
+Create a class where the object represents a robot, which moves in one dimension within a line segment of 100 meters. Such robots can have two colors, red and yellow. - completed 
+Robots move by iterations. The length of their movement in one iteration is a random number, which is between 20 and 40 meters for red robots and between 30 and 50 meters for yellow robots. - completed 
+On each iteration, once a robot, while moving in a certain direction, reaches an end of the line segment, it turns in the opposite direction and moves the rest of its movement length (selected for the iteration) in that direction. 
+Create an array of 150 robots, 50 of which are red and 100, yellow. The initial location of each robot and movement direction are selected at random. 
+Make 200 iterations, where on each iteration all the 150 robots move as described above.
+After that, select all robots that are located in the first half of the segment, i.e., in the subsegment [0, 50]. Count them and remove all other robots from the array. Save location of all remaining robots in a text file.
+Use a lambda function when convenient; at least once.
+Write as much code as you can in 25 minutes.
